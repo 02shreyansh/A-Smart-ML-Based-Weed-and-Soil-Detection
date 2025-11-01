@@ -1,0 +1,1 @@
+# A-Smart-ML-Based-Weed-and-Soil-Detection
